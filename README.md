@@ -7,9 +7,6 @@ This project is an ASP.NET Core Web API for user registration and authentication
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [License](#license)
 
 ## Features
 
