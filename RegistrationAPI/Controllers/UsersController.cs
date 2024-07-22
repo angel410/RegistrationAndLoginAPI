@@ -167,7 +167,7 @@ namespace RegistrationAPI.Controllers
 
         private void SendOtpSms(string mobileNumber, string otp)
         {
-            // Simulate sending OTP SMS (In production, use a third-party SMS service)
+            // Simulate sending OTP SMS 
             Console.WriteLine($"Sending OTP {otp} to {mobileNumber}");
         }
     }
